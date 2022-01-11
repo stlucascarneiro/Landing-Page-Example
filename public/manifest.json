@@ -1,0 +1,15 @@
+{
+  "short_name": "Landing Page",
+  "name": "Landing Page Example",
+  "description": "",
+  "lang": "pt-BR",
+  "categories": [
+    "development"
+  ],
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#644EE3",
+  "background_color": "#161D31",
+  "dir": "ltr"
+}
